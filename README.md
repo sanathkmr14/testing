@@ -1,1 +1,1 @@
-Testing the repo
+Every great idea starts with a small, curious step
